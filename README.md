@@ -8,6 +8,7 @@
 | [0049-group-anagrams](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0389-find-the-difference) |
+| [0575-distribute-candies](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0575-distribute-candies) |
 ## Math
 |  |
 | ------- |
@@ -34,6 +35,7 @@
 | [0455-assign-cookies](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0495-teemo-attacking) |
+| [0575-distribute-candies](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0575-distribute-candies) |
 | [0724-find-pivot-index](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0724-find-pivot-index) |
 ## Sorting
 |  |
