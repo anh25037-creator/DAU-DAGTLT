@@ -14,6 +14,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1436-destination-city](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1436-destination-city) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2418-sort-the-people](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2418-sort-the-people) |
 ## Math
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 | [1436-destination-city](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1436-destination-city) |
 | [1556-thousand-separator](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1556-thousand-separator) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2418-sort-the-people](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2418-sort-the-people) |
 ## Array
 |  |
 | ------- |
@@ -58,6 +60,7 @@
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1436-destination-city](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1436-destination-city) |
+| [2418-sort-the-people](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2418-sort-the-people) |
 ## Sorting
 |  |
 | ------- |
@@ -67,6 +70,7 @@
 | [0455-assign-cookies](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0455-assign-cookies) |
 | [1051-height-checker](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2418-sort-the-people](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2418-sort-the-people) |
 ## Trie
 |  |
 | ------- |
