@@ -41,6 +41,7 @@
 | [0495-teemo-attacking](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0495-teemo-attacking) |
 | [0575-distribute-candies](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0575-distribute-candies) |
 | [0724-find-pivot-index](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0724-find-pivot-index) |
+| [1051-height-checker](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1051-height-checker) |
 ## Sorting
 |  |
 | ------- |
@@ -48,6 +49,7 @@
 | [0347-top-k-frequent-elements](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0455-assign-cookies) |
+| [1051-height-checker](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1051-height-checker) |
 ## Trie
 |  |
 | ------- |
@@ -98,4 +100,8 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0455-assign-cookies) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
