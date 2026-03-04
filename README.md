@@ -27,6 +27,7 @@
 | [0066-plus-one](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0066-plus-one) |
 | [0347-top-k-frequent-elements](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0485-max-consecutive-ones) |
+| [0724-find-pivot-index](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0724-find-pivot-index) |
 ## Sorting
 |  |
 | ------- |
@@ -56,4 +57,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
