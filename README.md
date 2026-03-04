@@ -7,6 +7,7 @@
 | [0013-roman-to-integer](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0389-find-the-difference) |
 ## Math
 |  |
 | ------- |
@@ -20,6 +21,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0058-length-of-last-word) |
+| [0389-find-the-difference](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0389-find-the-difference) |
 ## Array
 |  |
 | ------- |
@@ -34,6 +36,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0389-find-the-difference) |
 ## Trie
 |  |
 | ------- |
@@ -70,4 +73,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
