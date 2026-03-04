@@ -33,6 +33,7 @@
 | [0347-top-k-frequent-elements](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0485-max-consecutive-ones) |
+| [0495-teemo-attacking](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0495-teemo-attacking) |
 | [0724-find-pivot-index](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0724-find-pivot-index) |
 ## Sorting
 |  |
@@ -86,6 +87,7 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0412-fizz-buzz) |
+| [0495-teemo-attacking](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0495-teemo-attacking) |
 ## Greedy
 |  |
 | ------- |
