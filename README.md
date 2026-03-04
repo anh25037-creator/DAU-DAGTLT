@@ -13,6 +13,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0066-plus-one) |
+| [0412-fizz-buzz](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0412-fizz-buzz) |
 ## String
 |  |
 | ------- |
@@ -22,6 +23,7 @@
 | [0049-group-anagrams](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0058-length-of-last-word) |
 | [0389-find-the-difference](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0412-fizz-buzz) |
 ## Array
 |  |
 | ------- |
@@ -77,4 +79,8 @@
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0389-find-the-difference) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
