@@ -50,6 +50,7 @@
 | [0575-distribute-candies](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0575-distribute-candies) |
 | [0724-find-pivot-index](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0724-find-pivot-index) |
 | [0819-most-common-word](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0819-most-common-word) |
+| [0860-lemonade-change](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0860-lemonade-change) |
 | [1051-height-checker](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1089-duplicate-zeros) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -117,6 +118,7 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0860-lemonade-change) |
 ## Counting Sort
 |  |
 | ------- |
