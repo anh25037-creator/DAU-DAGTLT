@@ -31,6 +31,7 @@
 | [0049-group-anagrams](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0066-plus-one) |
 | [0347-top-k-frequent-elements](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0347-top-k-frequent-elements) |
+| [0455-assign-cookies](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0724-find-pivot-index) |
 ## Sorting
@@ -39,6 +40,7 @@
 | [0049-group-anagrams](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0389-find-the-difference) |
+| [0455-assign-cookies](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0455-assign-cookies) |
 ## Trie
 |  |
 | ------- |
@@ -71,6 +73,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0455-assign-cookies](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0455-assign-cookies) |
 ## String Matching
 |  |
 | ------- |
@@ -83,4 +86,8 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0412-fizz-buzz) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
