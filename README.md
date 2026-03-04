@@ -42,6 +42,7 @@
 | [0575-distribute-candies](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0575-distribute-candies) |
 | [0724-find-pivot-index](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0724-find-pivot-index) |
 | [1051-height-checker](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1051-height-checker) |
+| [1089-duplicate-zeros](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1089-duplicate-zeros) |
 ## Sorting
 |  |
 | ------- |
@@ -83,6 +84,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0455-assign-cookies](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0455-assign-cookies) |
+| [1089-duplicate-zeros](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1089-duplicate-zeros) |
 ## String Matching
 |  |
 | ------- |
