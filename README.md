@@ -9,6 +9,7 @@
 | [0347-top-k-frequent-elements](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0389-find-the-difference) |
 | [0575-distribute-candies](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0575-distribute-candies) |
+| [0771-jewels-and-stones](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0771-jewels-and-stones) |
 ## Math
 |  |
 | ------- |
@@ -26,6 +27,7 @@
 | [0389-find-the-difference](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0771-jewels-and-stones) |
 ## Array
 |  |
 | ------- |
