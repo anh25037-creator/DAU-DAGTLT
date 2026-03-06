@@ -76,6 +76,7 @@
 | [1773-count-items-matching-a-rule](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1773-count-items-matching-a-rule) |
 | [2057-smallest-index-with-equal-value](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2057-smallest-index-with-equal-value) |
 | [2073-time-needed-to-buy-tickets](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2073-time-needed-to-buy-tickets) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2418-sort-the-people](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2418-sort-the-people) |
 ## Sorting
 |  |
@@ -147,6 +148,7 @@
 | ------- |
 | [0455-assign-cookies](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0860-lemonade-change) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Counting Sort
 |  |
 | ------- |
