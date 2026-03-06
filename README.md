@@ -4,6 +4,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0347-top-k-frequent-elements) |
@@ -57,6 +58,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0066-plus-one) |
