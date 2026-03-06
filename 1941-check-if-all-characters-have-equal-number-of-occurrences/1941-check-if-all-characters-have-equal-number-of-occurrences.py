@@ -1,6 +1,5 @@
-from collections import Counter
-
 class Solution:
     def areOccurrencesEqual(self, s):
-        count = Counter(s)
-        return len(set(count.values())) == 1
+        from collections import Counter
+        freq = Counter(s)
+        return len(set(freq.values())) == 1
