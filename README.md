@@ -41,6 +41,7 @@
 | [0824-goat-latin](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0824-goat-latin) |
 | [1436-destination-city](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1436-destination-city) |
 | [1556-thousand-separator](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1556-thousand-separator) |
+| [1694-reformat-phone-number](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1694-reformat-phone-number) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2418-sort-the-people](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2418-sort-the-people) |
 ## Array
