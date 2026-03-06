@@ -75,6 +75,7 @@
 | [1748-sum-of-unique-elements](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1748-sum-of-unique-elements) |
 | [1773-count-items-matching-a-rule](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1773-count-items-matching-a-rule) |
 | [2057-smallest-index-with-equal-value](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2057-smallest-index-with-equal-value) |
+| [2073-time-needed-to-buy-tickets](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2073-time-needed-to-buy-tickets) |
 | [2418-sort-the-people](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2418-sort-the-people) |
 ## Sorting
 |  |
@@ -140,6 +141,7 @@
 | [0495-teemo-attacking](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0495-teemo-attacking) |
 | [1103-distribute-candies-to-people](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1103-distribute-candies-to-people) |
 | [1518-water-bottles](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1518-water-bottles) |
+| [2073-time-needed-to-buy-tickets](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2073-time-needed-to-buy-tickets) |
 ## Greedy
 |  |
 | ------- |
@@ -150,4 +152,8 @@
 | ------- |
 | [1051-height-checker](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Queue
+|  |
+| ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
