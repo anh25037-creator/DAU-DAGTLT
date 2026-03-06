@@ -14,6 +14,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1436-destination-city](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1436-destination-city) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1742-maximum-number-of-balls-in-a-box) |
+| [1748-sum-of-unique-elements](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2418-sort-the-people](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2418-sort-the-people) |
 ## Math
@@ -67,6 +68,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1436-destination-city](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1436-destination-city) |
 | [1732-find-the-highest-altitude](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1732-find-the-highest-altitude) |
+| [1748-sum-of-unique-elements](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1748-sum-of-unique-elements) |
 | [2418-sort-the-people](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2418-sort-the-people) |
 ## Sorting
 |  |
@@ -100,6 +102,7 @@
 | [0347-top-k-frequent-elements](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0347-top-k-frequent-elements) |
 | [0819-most-common-word](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0819-most-common-word) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1742-maximum-number-of-balls-in-a-box) |
+| [1748-sum-of-unique-elements](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Quickselect
 |  |
