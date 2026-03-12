@@ -110,6 +110,7 @@
 | [2239-find-closest-number-to-zero](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2239-find-closest-number-to-zero) |
 | [2418-sort-the-people](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2418-sort-the-people) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [2974-minimum-number-game](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2974-minimum-number-game) |
 ## Sorting
 |  |
 | ------- |
@@ -126,6 +127,7 @@
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2418-sort-the-people](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2418-sort-the-people) |
+| [2974-minimum-number-game](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2974-minimum-number-game) |
 ## Trie
 |  |
 | ------- |
@@ -139,6 +141,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0347-top-k-frequent-elements) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [2974-minimum-number-game](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2974-minimum-number-game) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -192,6 +195,7 @@
 | [2169-count-operations-to-obtain-zero](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [2974-minimum-number-game](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2974-minimum-number-game) |
 ## Greedy
 |  |
 | ------- |
