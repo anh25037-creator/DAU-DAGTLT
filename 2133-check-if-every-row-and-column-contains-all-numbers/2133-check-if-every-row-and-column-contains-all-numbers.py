@@ -1,0 +1,14 @@
+class Solution:
+    def checkValid(self, matrix):
+        n = len(matrix)
+        target = set(range(1, n + 1))
+        
+        for i in range(n):
+            if set(matrix[i]) != target:
+                return False
+            
+            col = set(matrix[j][i] for j in range(n))
+            if col != target:
+                return False
+        
+        return True
