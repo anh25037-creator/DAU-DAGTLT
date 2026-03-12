@@ -109,6 +109,7 @@
 | [2215-find-the-difference-of-two-arrays](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2239-find-closest-number-to-zero](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2239-find-closest-number-to-zero) |
 | [2418-sort-the-people](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2418-sort-the-people) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Sorting
 |  |
 | ------- |
@@ -137,6 +138,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0347-top-k-frequent-elements) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -189,6 +191,7 @@
 | [2154-keep-multiplying-found-values-by-two](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2169-count-operations-to-obtain-zero](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Greedy
 |  |
 | ------- |
