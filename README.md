@@ -72,6 +72,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0066-plus-one) |
 | [0347-top-k-frequent-elements](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0347-top-k-frequent-elements) |
@@ -171,6 +172,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0125-valid-palindrome) |
 | [0455-assign-cookies](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0455-assign-cookies) |
