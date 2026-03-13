@@ -55,6 +55,7 @@
 | [0771-jewels-and-stones](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0819-most-common-word) |
 | [0824-goat-latin](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0824-goat-latin) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1436-destination-city](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1436-destination-city) |
 | [1556-thousand-separator](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1556-thousand-separator) |
 | [1694-reformat-phone-number](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1694-reformat-phone-number) |
@@ -239,5 +240,6 @@
 ## Stack
 |  |
 | ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2000-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
