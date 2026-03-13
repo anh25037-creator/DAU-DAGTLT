@@ -61,6 +61,7 @@
 | [1796-second-largest-digit-in-a-string](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1796-second-largest-digit-in-a-string) |
 | [1844-replace-all-digits-with-characters](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1844-replace-all-digits-with-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2000-reverse-prefix-of-word](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2000-reverse-prefix-of-word) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2124-check-if-all-as-appears-before-all-bs) |
@@ -177,6 +178,7 @@
 | [0125-valid-palindrome](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0125-valid-palindrome) |
 | [0455-assign-cookies](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0455-assign-cookies) |
 | [1089-duplicate-zeros](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1089-duplicate-zeros) |
+| [2000-reverse-prefix-of-word](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2000-reverse-prefix-of-word) |
 ## String Matching
 |  |
 | ------- |
@@ -225,4 +227,8 @@
 |  |
 | ------- |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+## Stack
+|  |
+| ------- |
+| [2000-reverse-prefix-of-word](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2000-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
