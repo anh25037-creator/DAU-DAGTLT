@@ -87,6 +87,7 @@
 | [0485-max-consecutive-ones](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0495-teemo-attacking) |
 | [0575-distribute-candies](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0575-distribute-candies) |
+| [0704-binary-search](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0724-find-pivot-index) |
 | [0819-most-common-word](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0819-most-common-word) |
 | [0860-lemonade-change](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0860-lemonade-change) |
@@ -233,6 +234,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Matrix
 |  |
