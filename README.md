@@ -47,6 +47,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0125-valid-palindrome) |
 | [0389-find-the-difference](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0709-to-lower-case) |
@@ -171,6 +172,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0125-valid-palindrome) |
 | [0455-assign-cookies](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0455-assign-cookies) |
 | [1089-duplicate-zeros](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1089-duplicate-zeros) |
 ## String Matching
