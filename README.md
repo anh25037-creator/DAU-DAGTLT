@@ -87,6 +87,7 @@
 | [0049-group-anagrams](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0219-contains-duplicate-ii](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0283-move-zeroes) |
@@ -274,4 +275,8 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0219-contains-duplicate-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
