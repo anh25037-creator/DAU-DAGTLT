@@ -78,6 +78,7 @@
 | [0014-longest-common-prefix](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0088-merge-sorted-array) |
@@ -234,6 +235,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0035-search-insert-position) |
 | [0374-guess-number-higher-or-lower](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2089-find-target-indices-after-sorting-array) |
