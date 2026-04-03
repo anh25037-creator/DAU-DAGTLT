@@ -82,6 +82,7 @@
 | [0049-group-anagrams](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0088-merge-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0283-move-zeroes](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0455-assign-cookies) |
@@ -236,6 +237,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0374-guess-number-higher-or-lower](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2089-find-target-indices-after-sorting-array) |
