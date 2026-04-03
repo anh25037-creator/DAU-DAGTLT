@@ -9,8 +9,9 @@
 # def guess(num: int) -> int:
 
 # giả lập API (nếu bạn test local)
+# giả lập hàm guess
 def guess(num):
-    pick = 6  # thay số bạn muốn test
+    pick = 6  # số cần đoán
     if num > pick:
         return -1
     elif num < pick:
@@ -21,20 +22,20 @@ def guess(num):
 
 class Solution:
     def guessNumber(self, n):
-        left, right = 1, n
+        left = 1
+        right = n
         
         while left <= right:
             mid = (left + right) // 2
-            result = guess(mid)
             
-            if result == 0:
+            if guess(mid) == 0:
                 return mid
-            elif result == -1:
+            elif guess(mid) == -1:
                 right = mid - 1
             else:
                 left = mid + 1
 
 
-# test
+# chạy thử
 s = Solution()
-print(s.guessNumber(10))  # output: 6
+print(s.guessNumber(10))
