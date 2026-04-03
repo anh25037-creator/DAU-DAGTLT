@@ -234,6 +234,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Matrix
@@ -246,4 +247,8 @@
 | [0020-valid-parentheses](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0020-valid-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2000-reverse-prefix-of-word) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
