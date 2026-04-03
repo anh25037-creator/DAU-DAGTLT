@@ -30,6 +30,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0069-sqrtx) |
 | [0412-fizz-buzz](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0412-fizz-buzz) |
 | [1103-distribute-candies-to-people](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1103-distribute-candies-to-people) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -237,6 +238,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0374-guess-number-higher-or-lower](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0704-binary-search) |
