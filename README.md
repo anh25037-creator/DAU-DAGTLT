@@ -240,6 +240,7 @@
 | [0035-search-insert-position](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0278-first-bad-version](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -256,5 +257,6 @@
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
