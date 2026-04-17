@@ -10,6 +10,7 @@
 | [0141-linked-list-cycle](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0141-linked-list-cycle) |
 | [0219-contains-duplicate-ii](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0389-find-the-difference) |
 | [0575-distribute-candies](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0575-distribute-candies) |
 | [0771-jewels-and-stones](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0771-jewels-and-stones) |
@@ -56,6 +57,7 @@
 | [0058-length-of-last-word](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0709-to-lower-case) |
@@ -176,6 +178,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0387-first-unique-character-in-a-string) |
 | [0819-most-common-word](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0819-most-common-word) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1748-sum-of-unique-elements](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1748-sum-of-unique-elements) |
@@ -250,6 +253,7 @@
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0387-first-unique-character-in-a-string) |
 | [2073-time-needed-to-buy-tickets](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2073-time-needed-to-buy-tickets) |
 ## Binary Search
 |  |
