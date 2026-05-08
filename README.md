@@ -98,6 +98,7 @@
 | [0088-merge-sorted-array](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0219-contains-duplicate-ii](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0268-missing-number) |
@@ -232,6 +233,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0389-find-the-difference) |
 | [2206-divide-array-into-equal-pairs](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2206-divide-array-into-equal-pairs) |
