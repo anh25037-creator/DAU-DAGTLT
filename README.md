@@ -67,6 +67,7 @@
 | [2180-count-integers-with-even-digit-sum](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2485-find-the-pivot-integer](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2485-find-the-pivot-integer) |
 | [2582-pass-the-pillow](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2582-pass-the-pillow) |
+| [2652-sum-multiples](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2652-sum-multiples) |
 | [3099-harshad-number](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/3099-harshad-number) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3360-stone-removal-game](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/3360-stone-removal-game) |
