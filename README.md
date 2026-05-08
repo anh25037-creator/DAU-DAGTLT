@@ -66,6 +66,7 @@
 | [2169-count-operations-to-obtain-zero](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2485-find-the-pivot-integer](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2485-find-the-pivot-integer) |
+| [2582-pass-the-pillow](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2582-pass-the-pillow) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3360-stone-removal-game](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/3360-stone-removal-game) |
 ## String
@@ -281,6 +282,7 @@
 | [2169-count-operations-to-obtain-zero](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [2582-pass-the-pillow](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2582-pass-the-pillow) |
 | [2974-minimum-number-game](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2974-minimum-number-game) |
 | [3360-stone-removal-game](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/3360-stone-removal-game) |
 ## Greedy
