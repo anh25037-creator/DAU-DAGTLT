@@ -107,6 +107,7 @@
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2129-capitalize-the-title](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2129-capitalize-the-title) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2224-minimum-number-of-operations-to-convert-time](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2418-sort-the-people](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2418-sort-the-people) |
 ## Array
@@ -302,6 +303,7 @@
 | [2078-two-furthest-houses-with-different-colors](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2224-minimum-number-of-operations-to-convert-time](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2706-buy-two-chocolates](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2706-buy-two-chocolates) |
 ## Counting Sort
 |  |
