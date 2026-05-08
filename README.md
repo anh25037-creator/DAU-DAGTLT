@@ -106,6 +106,7 @@
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2129-capitalize-the-title](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2129-capitalize-the-title) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2418-sort-the-people](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2418-sort-the-people) |
 ## Array
 |  |
@@ -284,6 +285,7 @@
 | [2154-keep-multiplying-found-values-by-two](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2169-count-operations-to-obtain-zero](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2293-min-max-game](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2293-min-max-game) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2582-pass-the-pillow](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2582-pass-the-pillow) |
