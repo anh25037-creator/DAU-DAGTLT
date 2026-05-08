@@ -56,6 +56,7 @@
 | [0509-fibonacci-number](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0728-self-dividing-numbers) |
 | [1025-divisor-game](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1025-divisor-game) |
+| [1037-valid-boomerang](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1037-valid-boomerang) |
 | [1103-distribute-candies-to-people](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1103-distribute-candies-to-people) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -141,6 +142,7 @@
 | [0819-most-common-word](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0819-most-common-word) |
 | [0860-lemonade-change](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0860-lemonade-change) |
 | [0997-find-the-town-judge](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0997-find-the-town-judge) |
+| [1037-valid-boomerang](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1037-valid-boomerang) |
 | [1051-height-checker](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -491,4 +493,8 @@
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1952-three-divisors) |
+## Geometry
+|  |
+| ------- |
+| [1037-valid-boomerang](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1037-valid-boomerang) |
 <!---LeetCode Topics End-->
