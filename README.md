@@ -333,6 +333,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0700-search-in-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0872-leaf-similar-trees) |
+| [2236-root-equals-sum-of-children](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -369,6 +370,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0700-search-in-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0872-leaf-similar-trees) |
+| [2236-root-equals-sum-of-children](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Search Tree
 |  |
 | ------- |
