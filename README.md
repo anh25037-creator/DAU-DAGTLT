@@ -40,6 +40,7 @@
 | [0009-palindrome-number](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0268-missing-number) |
@@ -65,6 +66,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0344-reverse-string) |
@@ -244,6 +246,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0389-find-the-difference) |
@@ -251,6 +254,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0495-teemo-attacking) |
 | [1103-distribute-candies-to-people](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1103-distribute-candies-to-people) |
