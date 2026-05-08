@@ -37,6 +37,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0069-sqrtx) |
