@@ -9,6 +9,7 @@
 | [0049-group-anagrams](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0141-linked-list-cycle) |
 | [0219-contains-duplicate-ii](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0389-find-the-difference) |
@@ -36,6 +37,7 @@
 | [0013-roman-to-integer](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0441-arranging-coins) |
 | [1103-distribute-candies-to-people](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1103-distribute-candies-to-people) |
@@ -96,6 +98,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0219-contains-duplicate-ii](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0455-assign-cookies) |
@@ -143,6 +146,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0455-assign-cookies) |
@@ -225,6 +229,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0389-find-the-difference) |
 | [2206-divide-array-into-equal-pairs](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2206-divide-array-into-equal-pairs) |
 ## Simulation
@@ -265,6 +270,7 @@
 | [0035-search-insert-position](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0441-arranging-coins) |
