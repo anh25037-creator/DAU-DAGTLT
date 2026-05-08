@@ -19,6 +19,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0771-jewels-and-stones](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0819-most-common-word) |
+| [0997-find-the-town-judge](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0997-find-the-town-judge) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1436-destination-city](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1436-destination-city) |
@@ -117,6 +118,7 @@
 | [0724-find-pivot-index](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0724-find-pivot-index) |
 | [0819-most-common-word](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0819-most-common-word) |
 | [0860-lemonade-change](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0860-lemonade-change) |
+| [0997-find-the-town-judge](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0997-find-the-town-judge) |
 | [1051-height-checker](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -424,4 +426,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0509-fibonacci-number) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
