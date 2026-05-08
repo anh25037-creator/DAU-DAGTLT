@@ -164,6 +164,7 @@
 | [2239-find-closest-number-to-zero](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2239-find-closest-number-to-zero) |
 | [2418-sort-the-people](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2418-sort-the-people) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [2706-buy-two-chocolates](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2706-buy-two-chocolates) |
 | [2974-minimum-number-game](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2974-minimum-number-game) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Sorting
@@ -186,6 +187,7 @@
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2418-sort-the-people](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2418-sort-the-people) |
+| [2706-buy-two-chocolates](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2706-buy-two-chocolates) |
 | [2974-minimum-number-game](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2974-minimum-number-game) |
 ## Trie
 |  |
@@ -291,6 +293,7 @@
 | [2078-two-furthest-houses-with-different-colors](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2706-buy-two-chocolates](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2706-buy-two-chocolates) |
 ## Counting Sort
 |  |
 | ------- |
