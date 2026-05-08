@@ -54,6 +54,7 @@
 | [0441-arranging-coins](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0509-fibonacci-number) |
+| [1025-divisor-game](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1025-divisor-game) |
 | [1103-distribute-candies-to-people](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1103-distribute-candies-to-people) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -336,6 +337,7 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0509-fibonacci-number) |
+| [1025-divisor-game](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1025-divisor-game) |
 ## Linked List
 |  |
 | ------- |
@@ -458,8 +460,10 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
