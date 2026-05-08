@@ -163,6 +163,7 @@
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2239-find-closest-number-to-zero](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2239-find-closest-number-to-zero) |
+| [2293-min-max-game](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2293-min-max-game) |
 | [2418-sort-the-people](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2418-sort-the-people) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2706-buy-two-chocolates](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2706-buy-two-chocolates) |
@@ -281,6 +282,7 @@
 | [2154-keep-multiplying-found-values-by-two](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2169-count-operations-to-obtain-zero](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2293-min-max-game](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2293-min-max-game) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2582-pass-the-pillow](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2582-pass-the-pillow) |
 | [2974-minimum-number-game](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2974-minimum-number-game) |
