@@ -480,6 +480,7 @@
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0997-find-the-town-judge) |
+| [1791-find-center-of-star-graph](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1791-find-center-of-star-graph) |
 ## Number Theory
 |  |
 | ------- |
