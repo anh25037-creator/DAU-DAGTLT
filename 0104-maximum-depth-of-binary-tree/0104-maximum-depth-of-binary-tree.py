@@ -6,10 +6,16 @@
 #         self.right = right
 class Solution:
     def maxDepth(self, root):
+
+        # nếu cây rỗng → độ sâu = 0
         if not root:
             return 0
-        
-        left = self.maxDepth(root.left)
-        right = self.maxDepth(root.right)
-        
-        return 1 + max(left, right)
+
+        # tính độ sâu cây con bên trái
+        left_depth = self.maxDepth(root.left)
+
+        # tính độ sâu cây con bên phải
+        right_depth = self.maxDepth(root.right)
+
+        # lấy đường dài nhất + 1 (node hiện tại)
+        return 1 + max(left_depth, right_depth)
