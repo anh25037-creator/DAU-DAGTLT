@@ -6,15 +6,26 @@
 #         self.right = right
 class Solution:
     def inorderTraversal(self, root):
-        result = []
-        
-        def inorder(node):
-            if node is None:
+        # danh sách lưu kết quả duyệt inorder
+        res = []
+
+        # hàm đệ quy DFS để duyệt cây
+        def dfs(node):
+            # nếu node rỗng thì dừng lại
+            if not node:
                 return
-            inorder(node.left)      # đi trái
-            result.append(node.val) # lấy giá trị
-            inorder(node.right)     # đi phải
-        
-        inorder(root)
-        return result
-        
+
+            # 1. duyệt toàn bộ cây con bên trái trước
+            dfs(node.left)
+
+            # 2. sau khi duyệt trái xong, thêm node hiện tại vào kết quả
+            res.append(node.val)
+
+            # 3. duyệt tiếp cây con bên phải
+            dfs(node.right)
+
+        # bắt đầu duyệt từ gốc cây
+        dfs(root)
+
+        # trả về danh sách kết quả inorder
+        return res
