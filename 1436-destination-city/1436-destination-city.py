@@ -1,10 +1,16 @@
 class Solution:
     def destCity(self, paths):
-        start_cities = set()
-        
+
+        # Tạo set lưu các thành phố có đường đi ra
+        start = set()
+
+        # Lưu cityA vào set
         for a, b in paths:
-            start_cities.add(a)
-        
+            start.add(a)
+
+        # Tìm thành phố không nằm trong start
         for a, b in paths:
-            if b not in start_cities:
+
+            # Nếu cityB không có đường đi ra
+            if b not in start:
                 return b
