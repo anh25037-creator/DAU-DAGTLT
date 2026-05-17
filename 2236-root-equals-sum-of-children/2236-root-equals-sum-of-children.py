@@ -5,16 +5,16 @@
 #         self.left = left
 #         self.right = right
 
-class Solution(object):
+class Solution:
     def checkTree(self, root):
-        """
-        :type root: Optional[TreeNode]
-        :rtype: bool
-        """
 
-        # lấy giá trị của node trái và phải
+        # Lấy giá trị của node con bên trái
         left_val = root.left.val
+
+        # Lấy giá trị của node con bên phải
         right_val = root.right.val
 
-        # kiểm tra tổng hai con có bằng root không
+        # Kiểm tra:
+        # nếu giá trị root bằng tổng 2 node con
+        # thì trả về True, ngược lại False
         return root.val == left_val + right_val
