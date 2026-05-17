@@ -1,41 +1,29 @@
-# The guess API is already defined for you.
-# @param num, your guess
-# @return -1 if num is higher than the picked number
-#          1 if num is lower than the picked number
-#          otherwise return 0
-# def guess(num):
-
-# The guess API is already defined for you.
+# API guess đã được định nghĩa sẵn trong bài
 # def guess(num: int) -> int:
-
-# giả lập API (nếu bạn test local)
-# giả lập hàm guess
-def guess(num):
-    pick = 6  # số cần đoán
-    if num > pick:
-        return -1
-    elif num < pick:
-        return 1
-    else:
-        return 0
-
 
 class Solution:
     def guessNumber(self, n):
-        left = 1
-        right = n
         
+        # left và right là khoảng tìm kiếm ban đầu [1, n]
+        left, right = 1, n
+        
+        # tiếp tục tìm khi khoảng tìm kiếm còn hợp lệ
         while left <= right:
+            
+            # chọn số ở giữa để đoán
             mid = (left + right) // 2
             
-            if guess(mid) == 0:
+            # gọi API để kiểm tra mid
+            res = guess(mid)
+            
+            # nếu đoán đúng số cần tìm
+            if res == 0:
                 return mid
-            elif guess(mid) == -1:
-                right = mid - 1
+            
+            # nếu res = 1 → số cần tìm lớn hơn mid
+            elif res == 1:
+                left = mid + 1  # bỏ nửa bên trái
+            
+            # nếu res = -1 → số cần tìm nhỏ hơn mid
             else:
-                left = mid + 1
-
-
-# chạy thử
-s = Solution()
-print(s.guessNumber(10))
+                right = mid - 1  # bỏ nửa bên phải
