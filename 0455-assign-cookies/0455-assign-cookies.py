@@ -1,14 +1,34 @@
 class Solution:
     def findContentChildren(self, g, s):
-        g.sort()  # sắp xếp độ tham
-        s.sort()  # sắp xếp kích thước bánh
-        
-        child = 0
-        cookie = 0
-        
-        while child < len(g) and cookie < len(s):
-            if s[cookie] >= g[child]:
-                child += 1   # trẻ này được thoả mãn
-            cookie += 1      # chuyển sang bánh tiếp theo
-        
-        return child
+
+        # Sắp xếp độ tham lam của trẻ
+        g.sort()
+
+        # Sắp xếp kích thước bánh
+        s.sort()
+
+        # i dùng cho trẻ em
+        i = 0
+
+        # j dùng cho bánh
+        j = 0
+
+        # Đếm số trẻ được thỏa mãn
+        count = 0
+
+        # Duyệt đến khi hết trẻ hoặc hết bánh
+        while i < len(g) and j < len(s):
+
+            # Nếu bánh đủ lớn cho trẻ hiện tại
+            if s[j] >= g[i]:
+
+                # Trẻ này được thỏa mãn
+                count += 1
+
+                # Sang trẻ tiếp theo
+                i += 1
+
+            # Dùng xong bánh hiện tại
+            j += 1
+
+        return count
