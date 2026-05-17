@@ -1,8 +1,18 @@
 class Solution:
     def findFinalValue(self, nums, original):
-        s = set(nums)
-        
-        while original in s:
-            original = original * 2
-            
+
+        # Lặp vô hạn cho đến khi gặp break
+        while True:
+
+            # Nếu original có trong nums
+            if original in nums:
+
+                # Nhân đôi original
+                original *= 2
+
+            else:
+                # Nếu không có thì dừng
+                break
+
+        # Trả về giá trị cuối cùng
         return original
