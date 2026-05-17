@@ -5,25 +5,25 @@
 #         self.left = left
 #         self.right = right
 
-class Solution(object):
+class Solution:
     def isUnivalTree(self, root):
-        """
-        :type root: Optional[TreeNode]
-        :rtype: bool
-        """
 
-        target = root.val  # giá trị cần so sánh
+        # Giá trị chuẩn của cả cây (lấy từ root)
+        target = root.val
 
+        # Hàm DFS để kiểm tra toàn bộ cây
         def dfs(node):
-            if not node:
-                return True  # node rỗng thì bỏ qua
 
-            # nếu khác giá trị gốc → không hợp lệ
+            # Nếu node rỗng → không vi phạm gì
+            if not node:
+                return True
+
+            # Nếu giá trị node khác giá trị chuẩn → không phải uni-valued
             if node.val != target:
                 return False
 
-            # kiểm tra tiếp trái và phải
+            # Kiểm tra tiếp cây con bên trái và bên phải
             return dfs(node.left) and dfs(node.right)
 
+        # Bắt đầu kiểm tra từ root
         return dfs(root)
-        
