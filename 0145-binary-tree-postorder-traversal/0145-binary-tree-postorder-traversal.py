@@ -6,14 +6,28 @@
 #         self.right = right
 class Solution:
     def postorderTraversal(self, root):
-        result = []
-        
-        def postorder(node):
+
+        # danh sách lưu kết quả
+        res = []
+
+        # hàm đệ quy DFS
+        def dfs(node):
+
+            # nếu node rỗng thì dừng lại
             if not node:
                 return
-            postorder(node.left)      # trái
-            postorder(node.right)     # phải
-            result.append(node.val)   # lấy sau
-        
-        postorder(root)
-        return result
+
+            # 1. duyệt toàn bộ cây con bên trái trước
+            dfs(node.left)
+
+            # 2. sau đó duyệt cây con bên phải
+            dfs(node.right)
+
+            # 3. cuối cùng mới xử lý node hiện tại (postorder)
+            res.append(node.val)
+
+        # bắt đầu từ root
+        dfs(root)
+
+        # trả về kết quả
+        return res
