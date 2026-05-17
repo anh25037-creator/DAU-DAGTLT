@@ -1,10 +1,17 @@
 class Solution:
     def numJewelsInStones(self, jewels, stones):
-        jewel_set = set(jewels)
+
+        # Đưa jewels vào set để tìm kiếm nhanh
+        jewelSet = set(jewels)
+
+        # Đếm số viên đá là jewels
         count = 0
-        
+
+        # Duyệt từng viên đá
         for stone in stones:
-            if stone in jewel_set:
+
+            # Nếu viên đá thuộc loại jewel
+            if stone in jewelSet:
                 count += 1
-                
+
         return count
