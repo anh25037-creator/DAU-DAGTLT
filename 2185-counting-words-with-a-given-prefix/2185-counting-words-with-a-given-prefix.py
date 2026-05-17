@@ -2,8 +2,11 @@ class Solution:
     def prefixCount(self, words, pref):
         count = 0
         
-        for w in words:
-            if w.startswith(pref):
+        # duyệt từng từ trong mảng words
+        for word in words:
+            
+            # kiểm tra word có bắt đầu bằng pref không
+            if word.startswith(pref):
                 count += 1
-                
+        
         return count
