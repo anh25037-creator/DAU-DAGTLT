@@ -1,11 +1,5 @@
 class Solution:
     def toLowerCase(self, s):
-        result = ""
-        
-        for c in s:
-            if 'A' <= c <= 'Z':
-                result += chr(ord(c) + 32)
-            else:
-                result += c
-                
-        return result
+
+        # Chuyển toàn bộ ký tự thành chữ thường
+        return s.lower()
