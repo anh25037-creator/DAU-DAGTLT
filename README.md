@@ -15,6 +15,7 @@
 | [0242-valid-anagram](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0389-find-the-difference) |
 | [0575-distribute-candies](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0575-distribute-candies) |
@@ -90,6 +91,7 @@
 | [0242-valid-anagram](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0392-is-subsequence) |
@@ -233,6 +235,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0387-first-unique-character-in-a-string) |
 | [0819-most-common-word](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0819-most-common-word) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1742-maximum-number-of-balls-in-a-box) |
