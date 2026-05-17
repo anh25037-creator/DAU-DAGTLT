@@ -7,19 +7,22 @@
 
 class Solution:
     def isSameTree(self, p, q):
-        # Nếu cả hai đều rỗng
+
+        # nếu cả hai cây đều rỗng → giống nhau
         if not p and not q:
             return True
 
-        # Nếu một trong hai rỗng
+        # nếu chỉ một trong hai cây rỗng → khác nhau
         if not p or not q:
             return False
 
-        # Nếu giá trị khác nhau
+        # nếu giá trị tại node hiện tại khác nhau → khác nhau
         if p.val != q.val:
             return False
 
-        # Kiểm tra cây con trái và phải
-        return self.isSameTree(p.left, q.left) and \
-               self.isSameTree(p.right, q.right)
-        
+        # kiểm tra đệ quy:
+        # so sánh cây con bên trái và bên phải
+        return (
+            self.isSameTree(p.left, q.left) and
+            self.isSameTree(p.right, q.right)
+        )
