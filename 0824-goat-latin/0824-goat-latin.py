@@ -1,16 +1,35 @@
 class Solution:
     def toGoatLatin(self, sentence):
-        vowels = set("aeiouAEIOU")
+
+        # Các nguyên âm
+        vowels = "aeiouAEIOU"
+
+        # Tách câu thành từng từ
         words = sentence.split()
+
+        # Mảng kết quả
         result = []
-        
-        for i, word in enumerate(words):
+
+        # Duyệt từng từ
+        for i in range(len(words)):
+
+            word = words[i]
+
+            # Nếu bắt đầu bằng nguyên âm
             if word[0] in vowels:
-                new_word = word + "ma"
+
+                # Thêm "ma"
+                newWord = word + "ma"
+
             else:
-                new_word = word[1:] + word[0] + "ma"
-            
-            new_word += "a" * (i + 1)
-            result.append(new_word)
-        
+                # Chuyển chữ đầu xuống cuối rồi thêm "ma"
+                newWord = word[1:] + word[0] + "ma"
+
+            # Thêm số lượng 'a' theo vị trí
+            newWord += "a" * (i + 1)
+
+            # Thêm vào kết quả
+            result.append(newWord)
+
+        # Ghép các từ lại thành câu
         return " ".join(result)
