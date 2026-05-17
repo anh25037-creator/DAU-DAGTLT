@@ -11,12 +11,19 @@
 
 class Solution:
     def deleteDuplicates(self, head):
+        # con trỏ curr dùng để duyệt danh sách liên kết
         curr = head
-        
+
+        # duyệt đến khi hết list hoặc chỉ còn 1 node
         while curr and curr.next:
+
+            # nếu giá trị node hiện tại bằng node kế tiếp
             if curr.val == curr.next.val:
-                curr.next = curr.next.next  # bỏ node trùng
+                # bỏ node trùng bằng cách nối bỏ qua node kế tiếp
+                curr.next = curr.next.next
             else:
+                # nếu không trùng thì chuyển sang node tiếp theo
                 curr = curr.next
-        
+
+        # trả về head của danh sách đã xử lý
         return head
