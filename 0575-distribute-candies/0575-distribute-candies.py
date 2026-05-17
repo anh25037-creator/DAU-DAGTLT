@@ -1,3 +1,14 @@
 class Solution:
     def distributeCandies(self, candyType):
-        return min(len(set(candyType)), len(candyType) // 2)
+
+        # Tìm số loại kẹo khác nhau
+        uniqueTypes = len(set(candyType))
+
+        # Số lượng kẹo Alice được ăn
+        canEat = len(candyType) // 2
+
+        # Alice chỉ có thể ăn tối đa:
+        # - số loại khác nhau
+        # hoặc
+        # - n / 2 viên kẹo
+        return min(uniqueTypes, canEat)
