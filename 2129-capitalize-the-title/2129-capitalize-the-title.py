@@ -1,12 +1,25 @@
 class Solution:
     def capitalizeTitle(self, title):
+
+        # Tách chuỗi thành từng từ
         words = title.split()
-        res = []
-        
-        for w in words:
-            if len(w) <= 2:
-                res.append(w.lower())
+
+        # Danh sách lưu kết quả
+        result = []
+
+        # Duyệt từng từ
+        for word in words:
+
+            # Nếu độ dài <= 2
+            if len(word) <= 2:
+
+                # Đổi toàn bộ thành chữ thường
+                result.append(word.lower())
+
             else:
-                res.append(w[0].upper() + w[1:].lower())
-                
-        return " ".join(res)
+                # Chữ đầu viết hoa
+                # Các chữ còn lại viết thường
+                result.append(word[0].upper() + word[1:].lower())
+
+        # Ghép các từ lại thành chuỗi
+        return " ".join(result)
