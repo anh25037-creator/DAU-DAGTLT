@@ -6,15 +6,21 @@
 #         self.right = right
 class Solution:
     def preorderTraversal(self, root):
-        result = []
-        
-        def preorder(node):
+        res = []
+
+        def dfs(node):
+            # nếu node rỗng thì dừng
             if not node:
                 return
-            result.append(node.val)  # lấy trước
-            preorder(node.left)      # trái
-            preorder(node.right)     # phải
-        
-        preorder(root)
-        return result
-        
+
+            # 1. thăm node hiện tại trước
+            res.append(node.val)
+
+            # 2. duyệt cây con bên trái
+            dfs(node.left)
+
+            # 3. duyệt cây con bên phải
+            dfs(node.right)
+
+        dfs(root)
+        return res
