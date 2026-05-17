@@ -8,27 +8,35 @@
 class Solution:
     def isSubtree(self, root, subRoot):
 
-        # Hàm kiểm tra 2 cây có giống nhau không
-        def sameTree(a, b):
-            if not a and not b:
+        # Hàm so sánh 2 cây có giống hệt nhau không
+        def isSameTree(p, q):
+            # Nếu cả hai đều rỗng → giống nhau
+            if not p and not q:
                 return True
-
-            if not a or not b:
+            
+            # Nếu một cây rỗng, một cây không → khác nhau
+            if not p or not q:
                 return False
-
-            if a.val != b.val:
+            
+            # Nếu giá trị khác nhau → không giống
+            if p.val != q.val:
                 return False
+            
+            # Kiểm tra tiếp cây con bên trái và bên phải
+            return isSameTree(p.left, q.left) and isSameTree(p.right, q.right)
 
-            return sameTree(a.left, b.left) and sameTree(a.right, b.right)
+        # Hàm duyệt từng node của root
+        def dfs(node):
+            # Nếu node rỗng → không tìm thấy
+            if not node:
+                return False
+            
+            # Nếu cây tại node hiện tại giống subRoot → trả về True
+            if isSameTree(node, subRoot):
+                return True
+            
+            # Nếu không giống → tiếp tục tìm ở cây trái hoặc cây phải
+            return dfs(node.left) or dfs(node.right)
 
-        # Nếu root rỗng
-        if not root:
-            return False
-
-        # Nếu cây hiện tại giống subRoot
-        if sameTree(root, subRoot):
-            return True
-
-        # Kiểm tra tiếp bên trái hoặc bên phải
-        return self.isSubtree(root.left, subRoot) or \
-               self.isSubtree(root.right, subRoot)
+        # Bắt đầu duyệt từ root
+        return dfs(root)
