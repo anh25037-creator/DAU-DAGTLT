@@ -8,17 +8,21 @@
 class Solution:
     def sumOfLeftLeaves(self, root):
 
+        # Nếu cây rỗng thì tổng = 0
         if not root:
             return 0
 
         total = 0
 
-        # Kiểm tra lá bên trái
+        # Kiểm tra nếu node con bên trái tồn tại
+        # và nó là 1 lá (không có con trái + phải)
         if root.left and not root.left.left and not root.left.right:
             total += root.left.val
 
-        # Đệ quy trái + phải
+        # Đệ quy sang cả cây con bên trái
         total += self.sumOfLeftLeaves(root.left)
+
+        # Đệ quy sang cả cây con bên phải
         total += self.sumOfLeftLeaves(root.right)
 
         return total
