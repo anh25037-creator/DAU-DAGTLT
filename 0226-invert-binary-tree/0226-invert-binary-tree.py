@@ -6,15 +6,20 @@
 #         self.right = right
 class Solution:
     def invertTree(self, root):
+
+        # nếu cây rỗng thì trả về None
         if not root:
             return None
-        
-        # đổi trái và phải
+
+        # đổi chỗ 2 cây con trái và phải
         root.left, root.right = root.right, root.left
-        
-        # đệ quy xuống dưới
+
+        # đệ quy đảo cây con bên trái
         self.invertTree(root.left)
+
+        # đệ quy đảo cây con bên phải
         self.invertTree(root.right)
-        
+
+        # trả về root sau khi đã đảo
         return root
         
