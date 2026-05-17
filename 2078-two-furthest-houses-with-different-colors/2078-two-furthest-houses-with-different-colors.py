@@ -1,13 +1,23 @@
 class Solution:
     def maxDistance(self, colors):
-        n = len(colors)
-        ans = 0
 
-        for i in range(n):
-            if colors[i] != colors[0]:
-                ans = max(ans, i)
+        # Biến lưu khoảng cách lớn nhất
+        max_distance = 0
 
-            if colors[i] != colors[n-1]:
-                ans = max(ans, n - 1 - i)
+        # Duyệt từng nhà
+        for i in range(len(colors)):
 
-        return ans
+            # So sánh với các nhà phía sau
+            for j in range(i + 1, len(colors)):
+
+                # Nếu màu khác nhau
+                if colors[i] != colors[j]:
+
+                    # Tính khoảng cách
+                    distance = abs(i - j)
+
+                    # Cập nhật khoảng cách lớn nhất
+                    max_distance = max(max_distance, distance)
+
+        # Trả về kết quả
+        return max_distance
