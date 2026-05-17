@@ -149,6 +149,7 @@
 | [0733-flood-fill](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0733-flood-fill) |
 | [0819-most-common-word](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0819-most-common-word) |
 | [0860-lemonade-change](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0860-lemonade-change) |
+| [0912-sort-an-array](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0912-sort-an-array) |
 | [0997-find-the-town-judge](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0997-find-the-town-judge) |
 | [1037-valid-boomerang](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1037-valid-boomerang) |
 | [1051-height-checker](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1051-height-checker) |
@@ -198,6 +199,7 @@
 | [0347-top-k-frequent-elements](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0455-assign-cookies) |
+| [0912-sort-an-array](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -220,16 +222,19 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0912-sort-an-array) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2974-minimum-number-game](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2974-minimum-number-game) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -324,6 +329,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Queue
@@ -516,4 +522,12 @@
 |  |
 | ------- |
 | [1037-valid-boomerang](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/1037-valid-boomerang) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
