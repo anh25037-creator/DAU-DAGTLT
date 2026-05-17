@@ -1,6 +1,14 @@
 class Solution:
     def reversePrefix(self, word, ch):
-        i = word.find(ch)
-        if i == -1:
+        
+        # tìm vị trí xuất hiện đầu tiên của ch
+        idx = word.find(ch)
+        
+        # nếu không tìm thấy ch → trả nguyên chuỗi
+        if idx == -1:
             return word
-        return word[:i+1][::-1] + word[i+1:]
+        
+        # đảo ngược đoạn từ 0 đến idx
+        # word[:idx+1] → đoạn cần reverse
+        # word[idx+1:] → phần còn lại giữ nguyên
+        return word[:idx+1][::-1] + word[idx+1:]
