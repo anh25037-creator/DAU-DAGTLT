@@ -8,26 +8,36 @@
 class Solution:
     def findMode(self, root):
 
+        # Dictionary dùng để lưu:
+        # key = giá trị node
+        # value = số lần xuất hiện
         count = {}
         
-        # DFS duyệt cây
+        # Hàm DFS để duyệt toàn bộ cây
         def dfs(node):
+            # Nếu node rỗng thì dừng
             if not node:
                 return
             
+            # Tăng tần suất của node.val lên 1
             count[node.val] = count.get(node.val, 0) + 1
             
+            # Duyệt tiếp cây con bên trái
             dfs(node.left)
+
+            # Duyệt tiếp cây con bên phải
             dfs(node.right)
 
+        # Bắt đầu duyệt từ root
         dfs(root)
 
-        # Tần suất lớn nhất
+        # Tìm giá trị có tần suất lớn nhất
         maxFreq = max(count.values())
 
-        # Lấy các mode
+        # Danh sách kết quả (các mode)
         res = []
 
+        # Duyệt qua dictionary để lấy các giá trị có tần suất = maxFreq
         for key in count:
             if count[key] == maxFreq:
                 res.append(key)
