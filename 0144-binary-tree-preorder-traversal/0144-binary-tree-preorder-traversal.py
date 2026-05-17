@@ -6,14 +6,18 @@
 #         self.right = right
 class Solution:
     def preorderTraversal(self, root):
+
+        # danh sách lưu kết quả
         res = []
 
+        # hàm đệ quy DFS
         def dfs(node):
+
             # nếu node rỗng thì dừng
             if not node:
                 return
 
-            # 1. thăm node hiện tại trước
+            # 1. xử lý node hiện tại trước (preorder)
             res.append(node.val)
 
             # 2. duyệt cây con bên trái
@@ -22,5 +26,8 @@ class Solution:
             # 3. duyệt cây con bên phải
             dfs(node.right)
 
+        # bắt đầu từ root
         dfs(root)
+
+        # trả về kết quả preorder
         return res
