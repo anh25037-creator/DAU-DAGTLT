@@ -1,15 +1,24 @@
 class Solution:
     def pivotIndex(self, nums):
+
+        # Tổng toàn bộ mảng
         total = sum(nums)
-        left_sum = 0
-        
+
+        # Tổng bên trái
+        leftSum = 0
+
+        # Duyệt từng vị trí
         for i in range(len(nums)):
-            right_sum = total - left_sum - nums[i]
-            
-            if left_sum == right_sum:
+
+            # Tổng bên phải
+            rightSum = total - leftSum - nums[i]
+
+            # Nếu 2 bên bằng nhau
+            if leftSum == rightSum:
                 return i
-            
-            left_sum += nums[i]
-        
+
+            # Cập nhật tổng bên trái
+            leftSum += nums[i]
+
+        # Không có pivot index
         return -1
-        
