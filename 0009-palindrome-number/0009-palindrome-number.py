@@ -1,21 +1,11 @@
-class Solution(object):
+class Solution:
     def isPalindrome(self, x):
-        """
-        :type x: int
-        :rtype: bool
-        """
+        # chuyển số nguyên x sang chuỗi để dễ xử lý
+        s = str(x)
 
-        # số âm chắc chắn không phải palindrome
-        if x < 0:
-            return False
+        # s[::-1] là cách đảo ngược chuỗi trong Python
+        # ví dụ: "121" → "121", "123" → "321"
 
-        original = x
-        reversed_num = 0
-
-        while x > 0:
-            digit = x % 10
-            reversed_num = reversed_num * 10 + digit
-            x //= 10
-
-        return original == reversed_num
-        
+        # so sánh chuỗi gốc với chuỗi đảo ngược
+        # nếu giống nhau → là palindrome
+        return s == s[::-1]
