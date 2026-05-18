@@ -73,6 +73,7 @@
 | [2169-count-operations-to-obtain-zero](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2235-add-two-integers) |
+| [2469-convert-the-temperature](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2469-convert-the-temperature) |
 | [2485-find-the-pivot-integer](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2485-find-the-pivot-integer) |
 | [2582-pass-the-pillow](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2582-pass-the-pillow) |
 | [2652-sum-multiples](https://github.com/anh25037-creator/DAU-DAGTLT/tree/master/2652-sum-multiples) |
