@@ -5,9 +5,14 @@ class Solution(object):
         :rtype: bool
         """
 
-        # số <= 0 không phải power of 2
+        # số <= 0 không thể là lũy thừa của 2
         if n <= 0:
             return False
 
-        # kiểm tra chỉ có 1 bit 1
-        return (n & (n - 1)) == 0
+        # chia liên tục cho 2
+        while n % 2 == 0:
+            n //= 2
+
+        # nếu cuối cùng còn 1
+        # thì n là lũy thừa của 2
+        return n == 1
