@@ -6,4 +6,5 @@ class Solution(object):
         :rtype: int
         """
 
+        # cộng hai số
         return num1 + num2
