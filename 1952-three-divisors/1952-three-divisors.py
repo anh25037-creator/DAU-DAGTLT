@@ -1,5 +1,3 @@
-import math
-
 class Solution(object):
     def isThree(self, n):
         """
@@ -7,19 +5,20 @@ class Solution(object):
         :rtype: bool
         """
 
-        root = int(math.sqrt(n))
+        # biến đếm số lượng ước
+        count = 0
 
-        # không phải số chính phương
-        if root * root != n:
-            return False
+        # duyệt tất cả số từ 1 đến n
+        for i in range(1, n + 1):
 
-        # kiểm tra root có nguyên tố không
-        if root < 2:
-            return False
+            # nếu n chia hết cho i
+            # thì i là ước của n
+            if n % i == 0:
 
-        for i in range(2, int(math.sqrt(root)) + 1):
-            if root % i == 0:
-                return False
+                # tăng số lượng ước
+                count += 1
 
-        return True
-        
+        # nếu có đúng 3 ước
+        # trả về True
+        # ngược lại trả về False
+        return count == 3
