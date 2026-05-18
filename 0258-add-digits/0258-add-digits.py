@@ -5,14 +5,17 @@ class Solution(object):
         :rtype: int
         """
 
-        while num >= 10:  # còn nhiều hơn 1 chữ số
+        # lặp đến khi num chỉ còn 1 chữ số
+        while num >= 10:
+
             total = 0
 
+            # tách từng chữ số để cộng
             while num > 0:
-                total += num % 10
-                num //= 10
+                total += num % 10   # lấy chữ số cuối
+                num //= 10          # bỏ chữ số cuối
 
+            # cập nhật num bằng tổng mới
             num = total
 
         return num
-        
