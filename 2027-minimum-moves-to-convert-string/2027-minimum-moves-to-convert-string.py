@@ -1,19 +1,26 @@
 class Solution(object):
     def minimumMoves(self, s):
-        """
-        :type s: str
-        :rtype: int
-        """
-
-        i = 0
+        # moves: đếm số lần thực hiện thao tác biến 3 ký tự thành 'O'
         moves = 0
-        n = len(s)
 
-        while i < n:
+        # i: con trỏ duyệt chuỗi từ trái sang phải
+        i = 0
+
+        # duyệt toàn bộ chuỗi
+        while i < len(s):
+
+            # nếu gặp ký tự 'X' → cần thực hiện 1 move
             if s[i] == 'X':
-                moves += 1      # thực hiện 1 lần biến đổi
-                i += 3          # bỏ qua 3 ký tự
+
+                # tăng số lần thao tác
+                moves += 1
+
+                # bỏ qua 3 ký tự liên tiếp vì 1 move xử lý được 3 ký tự
+                i += 3
+
             else:
+                # nếu là 'O' → không cần xử lý, chỉ đi tiếp
                 i += 1
 
+        # trả về tổng số move tối thiểu
         return moves
