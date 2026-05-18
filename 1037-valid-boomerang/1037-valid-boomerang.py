@@ -5,10 +5,11 @@ class Solution(object):
         :rtype: bool
         """
 
+        # lấy 3 điểm
         x1, y1 = points[0]
         x2, y2 = points[1]
         x3, y3 = points[2]
 
-        # kiểm tra không thẳng hàng
-        return (x2 - x1) * (y3 - y1) != (y2 - y1) * (x3 - x1)
-        
+        # kiểm tra 3 điểm có thẳng hàng không
+        # dùng công thức diện tích tam giác
+        return (y2 - y1) * (x3 - x1) != (y3 - y1) * (x2 - x1)
