@@ -1,13 +1,12 @@
-class Solution(object):
+class Solution:
     def singleNumber(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: int
-        """
-
+        # khởi tạo biến XOR = 0
         res = 0
 
+        # duyệt từng số trong mảng
         for num in nums:
-            res ^= num  # XOR dồn tất cả
+            # XOR dồn tất cả lại
+            res ^= num
 
+        # kết quả còn lại là số xuất hiện 1 lần
         return res
