@@ -1,8 +1,9 @@
+#Chuyển số La Mã thành số nguyên bình thường.
 class Solution:
     def romanToInt(self, s):
 
-        # Dictionary lưu giá trị của từng ký tự La Mã
-        values = {
+        # Bảng đổi ký tự La Mã -> số
+        roman = {
             'I': 1,
             'V': 5,
             'X': 10,
@@ -12,21 +13,20 @@ class Solution:
             'M': 1000
         }
 
-        # Kết quả cuối cùng
         total = 0
 
-        # Duyệt từng ký tự trong chuỗi
+        # Duyệt từng ký tự
         for i in range(len(s)):
 
-            # Nếu ký tự hiện tại nhỏ hơn ký tự phía sau
-            # nghĩa là trường hợp trừ (IV, IX, XL,...)
-            if i < len(s) - 1 and values[s[i]] < values[s[i + 1]]:
+            # Nếu chưa phải ký tự cuối
+            # và số hiện tại nhỏ hơn số phía sau
+            if i < len(s) - 1 and roman[s[i]] < roman[s[i + 1]]:
 
-                # Trừ giá trị hiện tại
-                total -= values[s[i]]
+                # Trừ
+                total -= roman[s[i]]
 
             else:
-                # Ngược lại thì cộng bình thường
-                total += values[s[i]]
+                # Cộng
+                total += roman[s[i]]
 
         return total
