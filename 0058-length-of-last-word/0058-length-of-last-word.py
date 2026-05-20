@@ -1,3 +1,4 @@
+#Tìm độ dài của từ cuối cùng trong chuỗi.
 class Solution:
     def lengthOfLastWord(self, s):
         
