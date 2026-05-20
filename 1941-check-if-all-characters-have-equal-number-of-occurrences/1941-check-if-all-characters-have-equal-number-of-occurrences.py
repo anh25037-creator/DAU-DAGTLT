@@ -1,3 +1,4 @@
+#Kiểm tra xem tất cả ký tự có số lần xuất hiện bằng nhau hay không.
 class Solution:
     def areOccurrencesEqual(self, s):
 
