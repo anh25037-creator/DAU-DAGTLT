@@ -1,3 +1,4 @@
+#Tổng của hai số
 class Solution:
     def twoSum(self, nums, target):
         
