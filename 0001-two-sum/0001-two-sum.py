@@ -1,4 +1,5 @@
 #Tổng của hai số
+#Tìm vị trí (index) của 2 số trong mảng sao cho tổng của chúng bằng target.
 class Solution:
     def twoSum(self, nums, target):
         
