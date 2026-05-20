@@ -1,3 +1,4 @@
+#Có phải chuỗi con theo thứ tự hay không.
 class Solution:
     def isSubsequence(self, s, t):
 
