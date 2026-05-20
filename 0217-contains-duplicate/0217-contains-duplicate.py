@@ -1,3 +1,4 @@
+#Kiểm tra xem mảng có số nào xuất hiện nhiều hơn 1 lần không
 class Solution:
     def containsDuplicate(self, nums):
 
