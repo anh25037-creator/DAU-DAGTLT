@@ -1,3 +1,4 @@
+#Không được trồng 2 bông hoa cạnh nhau
 class Solution:
     def canPlaceFlowers(self, flowerbed, n):
         
