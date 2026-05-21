@@ -1,3 +1,4 @@
+#Tìm chuỗi dài nhất các số 1 liên tiếp trong mảng nhị phân nums.
 class Solution:
     def findMaxConsecutiveOnes(self, nums):
 
