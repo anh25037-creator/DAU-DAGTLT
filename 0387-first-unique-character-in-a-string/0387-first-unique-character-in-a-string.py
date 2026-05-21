@@ -1,3 +1,5 @@
+#Ký tự duy nhất đầu tiên trong một chuỗi
+#“first” = cái đầu tiên nên gặp cái đúng là dừng ngay
 class Solution:
     def firstUniqChar(self, s):
 
