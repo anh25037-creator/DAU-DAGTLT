@@ -1,3 +1,4 @@
+#Tìm ký tự được thêm vào trong t.
 class Solution:
     def findTheDifference(self, s, t):
 
