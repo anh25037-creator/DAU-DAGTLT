@@ -1,3 +1,4 @@
+#Xóa các phần tử trùng lặp khỏi mảng đã được sắp xếp
 class Solution:
     def removeElement(self, nums, val):
         
